@@ -77,7 +77,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd hello-rails-back-end
-  git clone https://github.com/Rana-Mudassir/hello-react-back-end.git
+  git clone https://github.com/Rana-Mudassir/hello-rails-back-end.git
 ```
 
 ### Install
@@ -149,7 +149,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Rana-Mudassir/hello-react-back-end/issues).
+Feel free to check the [issues page](https://github.com/Rana-Mudassir/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,6 +166,6 @@ If you like this project please show support by staring ⭐️.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Rana-Mudassir/hello-react-back-end/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/Rana-Mudassir/hello-rails-back-end/blob/feature/backend/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
